@@ -33,4 +33,21 @@
     </pluginRepository>
   </pluginRepositories>
 
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/foofoo</url>
+  <scm>
+    <connection>scm:git:ssh://github.com/jenkinsci/foofoo.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/foofoo.git</developerConnection>
+    <url>https://github.com/jenkinsci/foofoo</url>
+  </scm>
+
+
+  <developers>
+    <developer>
+      <id>devguy</id>
+      <name>Developer Guy</name>
+      <email>devguy@developerguy.blah</email>
+    </developer>
+  </developers>
+
+
 </project>
